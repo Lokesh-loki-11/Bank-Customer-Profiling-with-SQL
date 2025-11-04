@@ -10,6 +10,7 @@ It demonstrates the design of relational database tables, data insertion, and ex
 - Perform SQL queries to analyze account balances, transactions, and customer relationships.
 - Join multiple tables to extract meaningful insights.
 - Explore data consistency and linkage across multiple relational tables.
+- 
 
 ---
 
